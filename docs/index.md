@@ -1,8 +1,7 @@
 ---
 title: Руководство пользователя
-authors: OddRomanCC
+summary: Сделано по ГОСТ для приложения Ocapp
 ---
-
 Руководство пользователя приложения [Ocapp](https://github.com/oddromancc/ocapp).
 
 ## Введение

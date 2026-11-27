@@ -1,3 +1,8 @@
+---
+title: Руководство пользователя
+authors: OddRomanCC
+---
+
 # Руководство пользователя
 
 Руководство пользователя приложения [Ocapp](https://github.com/oddromancc/ocapp).

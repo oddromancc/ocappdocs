@@ -1,4 +1,4 @@
 site_name: Руководство пользователя
-theme: readthedocs
+theme: mkdocs
 nav:
   - Начало: index.md

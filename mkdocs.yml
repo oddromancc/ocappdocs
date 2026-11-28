@@ -1,4 +1,7 @@
 site_name: Руководство пользователя
 theme: mkdocs
 nav:
-  - index.md
+  - Руководство пользователя: index.md
+  - Состав ИС:
+    - Структура: arch.md
+    - Интерфейс: interface.md
